@@ -5,5 +5,5 @@
 let parallexImg = document.getElementsByClassName("parallexImg");
 
 new simpleParallax(parallexImg, {
-    overflow: "false"
+    overflow: "true"
 });
